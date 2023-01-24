@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theffy92
 - 👀 I’m interested in human languages and programming languages
-- 🌱 I’m currently learning WordPress and Portuguese
+- 🌱 I’m currently learning Python and Portuguese
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me estefyreyes.92@gmail.com
 
